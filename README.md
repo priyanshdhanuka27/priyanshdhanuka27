@@ -1,5 +1,6 @@
+![github-header-image](https://github.com/priyanshdhanuka27/priyanshdhanuka27/assets/67717708/d475e970-f5e9-4788-b9e0-8811df9314d1)
 
-![github-header-image](https://github.com/priyanshdhanuka27/priyanshdhanuka27/assets/67717708/5e9ea520-c651-449c-839a-1eef6273e491)
+(https://github.com/priyanshdhanuka27/priyanshdhanuka27/assets/67717708/5e9ea520-c651-449c-839a-1eef6273e491)
 
 <!--
 <picture>
