@@ -1,4 +1,13 @@
-## Hi there 👋
+![github-header-image](https://github.com/priyanshdhanuka27/priyanshdhanuka27/assets/67717708/456702c3-0820-4ddf-9b65-131d39e761ff)
+
+<!--
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+
+</picture>
+
 
 <!--
 **priyanshdhanuka27/priyanshdhanuka27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
